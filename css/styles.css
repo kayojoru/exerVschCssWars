@@ -11,11 +11,11 @@ p {
     font-size: larger;
     line-height: 40px;
 }
-.credits {
+p span.credits {
     text-decoration: underline;
     color: #49DAFF;
 }
-.credits:hover {
+p span.credits:hover {
     cursor: pointer;
 }
 #film-description {
